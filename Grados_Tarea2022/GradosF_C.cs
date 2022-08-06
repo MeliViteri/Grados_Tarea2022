@@ -18,7 +18,7 @@ namespace Grados_Tarea2022
         }
         public double CalcularGradosF_C()
         {
-            return (GradosFt_Cs - 32) * 0.5556; 
+            return (GradosFt_Cs - 30) * 0.5556; 
         }
     }
 }
